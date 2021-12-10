@@ -1,0 +1,28 @@
+
+--- Some full documentation
+https://elinux.org/RPi_GPIO_Code_Samples#Direct_register_access
+
+--- Previous tests by jokkebk ---
+https://codeandlife.com/2012/07/03/benchmarking-raspberry-pi-gpio-speed/
+https://codeandlife.com/2015/03/25/raspberry-pi-2-vs-1-gpio-benchmark/
+https://github.com/jokkebk/rpi-gpio-benchmark
+
+--- WiringPi ---
+http://wiringpi.com/
+
+https://solarianprogrammer.com/2018/12/23/raspberry-pi-cpp-control-led/
+
+https://www.ics.com/blog/how-control-gpio-hardware-c-or-c
+
+https://www.digikey.com/en/maker/blogs/2019/how-to-use-gpio-on-the-raspberry-pi-with-c
+
+--- pigpio ---
+https://abyz.me.uk/rpi/pigpio/
+
+--- WiringPi & pigpio ---
+https://raspberrypi.stackexchange.com/questions/19765/rpi-gpio-as-a-high-speed-square-wave-generator
+
+https://www.bigmessowires.com/2018/05/26/raspberry-pi-gpio-programming-in-c/
+
+--- Other ---
+https://www.raspberrypi.org/app/uploads/2012/02/BCM2835-ARM-Peripherals.pdf
