@@ -1,4 +1,7 @@
 
+--- Raspberry Pi doc ---
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
 --- Some full documentation
 https://elinux.org/RPi_GPIO_Code_Samples#Direct_register_access
 
@@ -23,6 +26,9 @@ https://abyz.me.uk/rpi/pigpio/
 https://raspberrypi.stackexchange.com/questions/19765/rpi-gpio-as-a-high-speed-square-wave-generator
 
 https://www.bigmessowires.com/2018/05/26/raspberry-pi-gpio-programming-in-c/
+
+--- bcm2835 package --- 
+https://raspberry-projects.com/pi/programming-in-c/io-pins/bcm2835-by-mike-mccauley
 
 --- Other ---
 https://www.raspberrypi.org/app/uploads/2012/02/BCM2835-ARM-Peripherals.pdf
